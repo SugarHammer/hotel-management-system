@@ -1,4 +1,4 @@
-# 酒店管理系统(文末免费领取☟)
+# 酒店管理系统(文末获取方式☟)
 
 #### 介绍
 酒店管理系统（SSM楼层、房型、房间、图表统计）
@@ -29,8 +29,9 @@ Java + SSM（spring+springMVC+mybaits）+EasyUI+jQuery+Ajax+面向接口编程
 - idea/eclipse、jdk-1.8、mysql
 
 ## 有项目修改、安装调试需求 请联系以下
-![关注免费领](联系.png)
+![获取方式](QQ.png)
 
 ## 获取资源扫☝☝☝
+
 
 
